@@ -22,11 +22,11 @@ Este sitio compila, por primera vez, tanto información que ya se encuentra disp
 ## **Justificación**  
 
 
-Se presenta el _Atlas Nacional de las Abejas y Derivados Apícolas_, con la finalidad de tener un producto robusto y que sea punto de partida para detectar las necesidades de información sobre la apicultura en México, y con ello proveer de información que sea de utilidad para impulsar el desarrollo de esta importante actividad, de manera responsable y sustentable. prueba
+Se presenta el _Atlas Nacional de las Abejas y Derivados Apícolas_, con la finalidad de tener un producto robusto y que sea punto de partida para detectar las necesidades de información sobre la apicultura en México, y con ello proveer de información que sea de utilidad para impulsar el desarrollo de esta importante actividad, de manera responsable y sustentable.
 
 ### **Ambiental**
 
-El _Atlas Nacional de las Abejas y Derivados Apícolas_ surge de la necesidad de identificar la situación en que se encuentran estos insectos. El [_resumen para los responsables de la formulación de políticas del informe de evaluación de la Plataforma Intergubernamental Científico-normativa sobre Diversidad Biológica y Servicios de los Ecosistemas (IPBES, por sus siglas en inglés) sobre polinizadores, polinización y producción de alimentos_](pdfs/SPM_Pollination_ES.pdf){target="_blank"} de las Naciones Unidas, advierte que el 40 % de los polinizadores invertebrados, en particular algunos tipos de abejas y mariposas, podrían estarse enfrentando, en este momento, a un proceso de extinción.
+El _Atlas Nacional de las Abejas y Derivados Apícolas_ surge de la necesidad de identificar la situación en que se encuentran estos insectos. El [_resumen para los responsables de la formulación de políticas del informe de evaluación de la Plataforma Intergubernamental Científico-normativa sobre Diversidad Biológica y Servicios de los Ecosistemas (IPBES, por sus siglas en inglés) sobre polinizadores, polinización y producción de alimentos_](pdfs/SPM_Pollination_ES.pdf){target="_blank"} de las Naciones Unidas, advierte que el 40 % de los polinizadores invertebrados, en particular algunos tipos de abejas y mariposas, podrían estarse enfrentando, en este momento, a un proceso de extinción. 
 
 Las abejas no son los únicos polinizadores, sin embargo,es de resaltar que la abeja de la miel _(Apis mellifera)_ es una de las polinizadoras más eficientes, pues se desarrolla en casi todos los ambientes del planeta, formando poblaciones muy numerosas, trabaja la mayor parte del año y cada abeja suele ser fiel a un único tipo de flor; por tanto, aumenta el índice de reproducción de las especies florales. 
 
