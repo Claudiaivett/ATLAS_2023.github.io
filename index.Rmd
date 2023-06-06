@@ -22,7 +22,7 @@ Este sitio compila, por primera vez, tanto información que ya se encuentra disp
 ## **Justificación**  
 
 
-Se presenta el _Atlas Nacional de las Abejas y Derivados Apícolas_, con la finalidad de tener un producto robusto y que sea punto de partida para detectar las necesidades de información sobre la apicultura en México, y con ello proveer de información que sea de utilidad para impulsar el desarrollo de esta importante actividad, de manera responsable y sustentable.
+Se presenta el _Atlas Nacional de las Abejas y Derivados Apícolas_, con la finalidad de tener un producto robusto y que sea punto de partida para detectar las necesidades de información sobre la apicultura en México, y con ello proveer de información que sea de utilidad para impulsar el desarrollo de esta importante actividad, de manera responsable y sustentable. prueba
 
 ### **Ambiental**
 
